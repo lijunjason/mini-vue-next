@@ -5,10 +5,6 @@ Implement the simplest vue3 model for in-depth study of vue3 source code
 
 ## Usage
 
-[Bilibili](https://www.bilibili.com/video/BV1Zy4y1J73E) Provides a video explaining how to use it
-
-> Can follow my [Bilibili](https://space.bilibili.com/175301983)，Interpretation of live source code from time to time
-
 ## Discuss
 
 You can join the group to discuss the vue3 source code
